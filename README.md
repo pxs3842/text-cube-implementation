@@ -1,2 +1,4 @@
 # text-cube-implementation
-Implementation and performance evaluation of text cube using ontology
+Implementation and Performance Evaluation of Text Cube using Ontology
+
+

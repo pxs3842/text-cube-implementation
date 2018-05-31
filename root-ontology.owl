@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/Cr7owaQdrmIPlwT45CYjw2#"
+     xml:base="http://webprotege.stanford.edu/project/Cr7owaQdrmIPlwT45CYjw2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/Cr7owaQdrmIPlwT45CYjw2"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#altLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#altLabel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC9DyeNw3vljTx35ciINxse -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RC9DyeNw3vljTx35ciINxse">
+        <rdfs:label>hasAudioJack</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDaP68ZWEIGzFc2KUalmBq9 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDaP68ZWEIGzFc2KUalmBq9">
+        <rdfs:label>hasFinish</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REl2rP878AXOzTKjelje4j -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/REl2rP878AXOzTKjelje4j">
+        <rdfs:label>hasCamera</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5LhgPiTJQjMK9212vkI0w -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R5LhgPiTJQjMK9212vkI0w">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM"/>
+        <rdfs:label>Silver</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72Wd51KWzbICPSzxUkeQIr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R72Wd51KWzbICPSzxUkeQIr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDxczu5VejvaOEy1zBu815G"/>
+        <rdfs:label>4.8 ounces</rdfs:label>
+        <skos:altLabel>188 grams</skos:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7CSt63g21IaV6JrSed3lS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7CSt63g21IaV6JrSed3lS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDxczu5VejvaOEy1zBu815G"/>
+        <rdfs:label>6.63 ounces</rdfs:label>
+        <skos:altLabel>138 grams</skos:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7LMCso6efvou9TZNyyEVIq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7LMCso6efvou9TZNyyEVIq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO"/>
+        <rdfs:label>iPad Mini 2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7NMPoXaCviFbrTNj12tYZf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7NMPoXaCviFbrTNj12tYZf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o"/>
+        <rdfs:label>iPhone 7</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>iWatch</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7tq5vC13rJhlutABybPFYB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7tq5vC13rJhlutABybPFYB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBPyxDcVP5jiFHuHIzsFhJP"/>
+        <rdfs:label>5.5 inch (diagonal)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Features</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7vb72z1Rx69ZSMpgaUrS7E -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7vb72z1Rx69ZSMpgaUrS7E">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM"/>
+        <rdfs:label>Black</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7wiT0TjHd48RCBnMtewUrQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7wiT0TjHd48RCBnMtewUrQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o"/>
+        <rdfs:label>iPhone SE</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R85EY5HSyd2so2OvDLlU4Id -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R85EY5HSyd2so2OvDLlU4Id">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJVdzjQRkcycKSEOx9EGl"/>
+        <rdfs:label>iPod</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R87UNvqPg6ZLMh3XJEkEpR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R87UNvqPg6ZLMh3XJEkEpR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM"/>
+        <rdfs:label>Gold</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8B6BAblNNBpmbRIPCTMoya -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8B6BAblNNBpmbRIPCTMoya">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>MacBook</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8D5z0MAuXRlAh5iD53lX4O -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8D5z0MAuXRlAh5iD53lX4O">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Resistance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JIam2bQPsKUwUNV8GqZwb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8JIam2bQPsKUwUNV8GqZwb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2"/>
+        <rdfs:label>Nike+</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JRMzj5uCRatZTJ8mHdXhn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8JRMzj5uCRatZTJ8mHdXhn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB"/>
+        <rdfs:label>5 MP</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Lg592Zq4v22VwinFkatRQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Lg592Zq4v22VwinFkatRQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D5z0MAuXRlAh5iD53lX4O"/>
+        <rdfs:label>Splash</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Pf71uE765hjKXRqsX37wx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Pf71uE765hjKXRqsX37wx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>Mac Pro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8QdszYoX5wNVwuq0fiPIiT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8QdszYoX5wNVwuq0fiPIiT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D5z0MAuXRlAh5iD53lX4O"/>
+        <rdfs:label>Dust</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Carriers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8cpUlsjfDk76paYvNQzuYe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8cpUlsjfDk76paYvNQzuYe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 8</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8oyeQckul9ou9cS8fEmM6c -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8oyeQckul9ou9cS8fEmM6c">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>Apple TV</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8sPpvv2tDimGsdHJFWM1E9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8sPpvv2tDimGsdHJFWM1E9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Capacity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94Z2cde7jEEbI7DjDFH9Z9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94Z2cde7jEEbI7DjDFH9Z9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Size</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9BY1kqKD9Clv4XNQjdQgIk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9BY1kqKD9Clv4XNQjdQgIk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 8 plus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SOr3KRCI0DrqZXcz9m8UM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9SOr3KRCI0DrqZXcz9m8UM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB30Jy9OGiybPdIAuW1wb2I"/>
+        <rdfs:label>Fingerprint Sensor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Finish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Y2HINgzsEcS7D4U6I0fyF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Y2HINgzsEcS7D4U6I0fyF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>MacBook Pro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YUkIXFmH94ZjhLvqYUeHa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9YUkIXFmH94ZjhLvqYUeHa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9r5GmS4E7SPiKYJxuY3ZQJ"/>
+        <rdfs:label>A10</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9cwIpCzsKMBIoC5yFPWJGF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9cwIpCzsKMBIoC5yFPWJGF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO"/>
+        <rdfs:label>iPad Mini 4</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9fX9afQIakzLg0GvLzy1Ns -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9fX9afQIakzLg0GvLzy1Ns">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R94Z2cde7jEEbI7DjDFH9Z9"/>
+        <rdfs:label>5.44 in x 2.64 in x 0.28 in</rdfs:label>
+        <skos:altLabel>138.3 mm x 67.1 mm x 7.1 mm</skos:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9qyfEcSwVVXjUrPiFqqxxy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9qyfEcSwVVXjUrPiFqqxxy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB"/>
+        <rdfs:label>12 MP</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9r5GmS4E7SPiKYJxuY3ZQJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9r5GmS4E7SPiKYJxuY3ZQJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Chip</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9vXi6PfCcgo5CFqS2vP01s -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9vXi6PfCcgo5CFqS2vP01s">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2"/>
+        <rdfs:label>Series 2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB30Jy9OGiybPdIAuW1wb2I -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB30Jy9OGiybPdIAuW1wb2I">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Touch ID</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Camera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBNvtezcuxrwhYSRdZjITkE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBNvtezcuxrwhYSRdZjITkE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8D5z0MAuXRlAh5iD53lX4O"/>
+        <rdfs:label>Water</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBPyxDcVP5jiFHuHIzsFhJP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBPyxDcVP5jiFHuHIzsFhJP">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Display</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>iPhone</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBzOfq2ua4N0BeI3hrAm6DR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBzOfq2ua4N0BeI3hrAm6DR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB"/>
+        <rdfs:label>8 MP</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCDwIIOOmlyNxZ9lp80VQbr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCDwIIOOmlyNxZ9lp80VQbr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO"/>
+        <rdfs:label>iPad Air 2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCJITXXmwrXq4dBYiNwtz2U -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCJITXXmwrXq4dBYiNwtz2U">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9WRz49yKL5vEDLgZxjF7KM"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCQ78qbfVoGrTTtG7Jc8Mvp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCQ78qbfVoGrTTtG7Jc8Mvp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d"/>
+        <rdfs:label>Verizon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCj0I4tdiahGYm1uPgHYKof -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCj0I4tdiahGYm1uPgHYKof">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2"/>
+        <rdfs:label>Edition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCjVO58FtJF8BJrRLzr55SH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCjVO58FtJF8BJrRLzr55SH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8sPpvv2tDimGsdHJFWM1E9"/>
+        <rdfs:label>32 GB</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCqaTpaDCPqJ8YxzNlcmhq1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCqaTpaDCPqJ8YxzNlcmhq1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8sPpvv2tDimGsdHJFWM1E9"/>
+        <rdfs:label>256 GB</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBfsv7XX3qTH9koDJ8N5l -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDBfsv7XX3qTH9koDJ8N5l">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJVdzjQRkcycKSEOx9EGl"/>
+        <rdfs:label>iTunes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDUhKlzjRXX7bBIGvvFnaFs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDUhKlzjRXX7bBIGvvFnaFs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8sPpvv2tDimGsdHJFWM1E9"/>
+        <rdfs:label>128 GB</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDZBKBkBCODcGNne6GHsNPC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDZBKBkBCODcGNne6GHsNPC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBBAY673qTCAjTfidH68yXB"/>
+        <rdfs:label>7 MP</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDfFsrYB4zIAlJ7RTj9NrCT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDfFsrYB4zIAlJ7RTj9NrCT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDnJVdzjQRkcycKSEOx9EGl"/>
+        <rdfs:label>Apple Music</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDmSRuvz32OIbhhgVZZf19Q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDmSRuvz32OIbhhgVZZf19Q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>iMac</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDnJVdzjQRkcycKSEOx9EGl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDnJVdzjQRkcycKSEOx9EGl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>Music</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDsBMUkFgKpB663kwNVM2V8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDsBMUkFgKpB663kwNVM2V8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>MacBook Air</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDxczu5VejvaOEy1zBu815G -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDxczu5VejvaOEy1zBu815G">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7um47K03d7KytjwcTgI6b8"/>
+        <rdfs:label>Weight</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDxrAApxSkZGNK1I2YkWtHH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDxrAApxSkZGNK1I2YkWtHH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDaP68ZWEIGzFc2KUalmBq9"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R87UNvqPg6ZLMh3XJEkEpR"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>iPad Pro</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Apple</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIB36k7QO2qtcJ40AsdLKW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RIB36k7QO2qtcJ40AsdLKW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2"/>
+        <rdfs:label>Series 1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPO3UIAK4QxX4GV54POUz2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RPO3UIAK4QxX4GV54POUz2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg"/>
+        <rdfs:label>Mac Mini</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RbB0RTv0OvUQeXcfu5i38M -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RbB0RTv0OvUQeXcfu5i38M">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d"/>
+        <rdfs:label>AT&amp;T</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RcjLfI4OiI3aZ1XpI3avP0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RcjLfI4OiI3aZ1XpI3avP0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7phauAA6RefsSw8zertpf2"/>
+        <rdfs:label>Hermes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RmJsDzELxTG9y94KC9ShcF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RmJsDzELxTG9y94KC9ShcF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d"/>
+        <rdfs:label>Sprint</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rn8HUwlXKt0g6o5QnZOgh8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rn8HUwlXKt0g6o5QnZOgh8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R94Z2cde7jEEbI7DjDFH9Z9"/>
+        <rdfs:label>6.23 in x 3.07 in x 0.29 in</rdfs:label>
+        <skos:altLabel>158.2 mm x 77.9 mm x 7.3 mm</skos:altLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rntxa6nujNBJxpFeySCuIP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rntxa6nujNBJxpFeySCuIP">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBaKvO5oENDPaFF3R9Uv5o"/>
+        <rdfs:label>iPhone 7 Plus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RoEOUgLrgB7KT9x75QLjhO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>iPad</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rrz3NLgDcK18n7tlmOT1nF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rrz3NLgDcK18n7tlmOT1nF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBPyxDcVP5jiFHuHIzsFhJP"/>
+        <rdfs:label>4.7 inch (diagonal)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtRK12IRRhWQdX6H6U7mwJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RtRK12IRRhWQdX6H6U7mwJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8UBflBQZmLP2rbQoNm1v7d"/>
+        <rdfs:label>T Mobile</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RufeAMOSkYvF5Udoos2rgg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFPU7lVLZ9wdTKiBLKBYwR"/>
+        <rdfs:label>Mac</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.2) https://github.com/owlcs/owlapi -->
+

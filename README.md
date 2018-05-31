@@ -10,11 +10,11 @@ Keywords
 OLAP, Text Cube, Ontology, Hierarchy, RDF, SPARQL, Protégé, RDFLib, TextBlob
 
 Tools/ Skills Used:
-  i.   Python
-  ii.  MongoDB
-  iii. MySQL Workbench
-  iv.  Java
-  v.   Tableau
-  vi.  Protégé
-  vii. Excel
+ i.   Python
+ ii.  MongoDB
+ iii. MySQL Workbench
+ iv.  Java
+ v.   Tableau
+ vi.  Protégé
+ vii. Excel
   
